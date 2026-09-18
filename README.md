@@ -1,13 +1,11 @@
-#original de Tiro Parabólico
+# Actividad 4. Juego del tiro parabólicop
 
-# Actividad 1. Juego Pintando
-
-Este proyecto contiene una versión modificada de un videojuego Cannon, basado en el fenómeno del tiro parabólico. El código fuente original usado de base para este proyecto se puede encontrar en [Free Python Games](http://www.grantjenks.com/docs/freegames/cannon.html)
+Este proyecto contiene una versión modificada del clásico videojuego de Cannon. El código fuente original usado de base para este proyecto se puede encontrar en [Free Python Games](https://grantjenks.com/docs/freegames/cannon.html)
 
 ## Modificaciones
 
 * **Cambio 1:** Se ambio la velocidad de movimiento de los proyectiles y los objetivos
-* **Cambio 2:** Se habilitó el que el juego nunca termine, de manera que los balones al salir de la ventana se re posicionen.
+* **Cambio 2:** El juego es infinito hasta que se cierre la ventana. Cuando los objetivos llegan al límite izquierdo, reaparecen en el derecho con una altura aleatoria.
 
 ## Ejecutar Localmente
 
@@ -47,4 +45,4 @@ Ejecuta el código
 * **[Diana Cristina Barreto López]**
   * **Role:** Fork
   * **Matrícula:** A01425667
-  * **GitHub:** [@a01425667-hub)(https://github.com/a01425668-hub)
+  * **GitHub:** [@a01425667-hub](https://github.com/a01425668-hub)
