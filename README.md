@@ -42,11 +42,9 @@ Ejecuta el código
 * **Carlos Alberto Galán Gómez**
   * **Role:** Master
   * **Matrícula:** A01425194
-  * **GitHub:** [@CarlosGalan194](https://github.com)
-
+  * **GitHub:** [@CarlosGalan194](https://github.com/CarlosGalan194)
 
 * **[Diana Cristina Barreto López]**
   * **Role:** Fork
   * **Matrícula:** A01425667
-  * **GitHub:** [@a01425667-hub](https://github.com)
-
+  * **GitHub:** [@a01425667-hub)(https://github.com/a01425668-hub)
